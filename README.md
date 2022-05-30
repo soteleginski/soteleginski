@@ -1,5 +1,5 @@
 # minha biografia
-## quem sou eu
+## quem sou eu?
 me chamo sophia
 ## o que eu faço?
 sou estudante
